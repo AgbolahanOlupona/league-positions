@@ -1,0 +1,33 @@
+img{
+    margin-top: 20px;
+    margin-right: -50px;
+}
+h1{
+  margin-top: -100;
+}
+h2{
+    color: aliceblue;
+}
+body{
+    background-color: rgb(37, 37, 94);
+}
+.ween{
+    color: aliceblue;
+}
+p{
+    color: lawngreen;
+}
+.link{
+    color: springgreen;
+}
+div{
+    width: 500px;
+    border: 2px black solid;
+    padding: 20px;
+}
+footer{
+    color: lawngreen;
+}
+.mail{
+    color: lawngreen;
+}
